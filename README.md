@@ -10,6 +10,11 @@ EINDEX's Blog
 
 ### 最新
 
+* [通过 Travis CI 实现 DevOps 的 Hexo 博客](https://eindex.me/articles/2019/05/09/1557407895596.html)
+* [请求的一生](https://eindex.me/articles/2019/05/09/1557407867279.html)
+* [小白也能上手的 ArchLinux 安装教程](https://eindex.me/articles/2019/05/09/1557407843085.html)
+* [sshfs 网络磁盘映射到本地](https://eindex.me/articles/2019/05/09/1557407820996.html)
+* [Pipenv + Autoenv 更友善的工作环境](https://eindex.me/articles/2019/05/09/1557407529703.html)
 * [2017 技术总结](https://eindex.me/articles/2019/05/06/1557135502238.html)
 * [Tornado Auto Etag 机制](https://eindex.me/tornadoautoetag.html)
 * [世界，你好！](https://eindex.me/hello-solo)
