@@ -10,6 +10,7 @@ EINDEX's Blog
 
 ### 最新
 
+* [ARTS - Week 1](https://eindex.me/articles/2019/06/29/1561806039952.html)
 * [通过 Travis CI 实现 DevOps 的 Hexo 博客](https://eindex.me/articles/2019/05/09/1557407895596.html)
 * [请求的一生](https://eindex.me/articles/2019/05/09/1557407867279.html)
 * [小白也能上手的 ArchLinux 安装教程](https://eindex.me/articles/2019/05/09/1557407843085.html)
