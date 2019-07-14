@@ -10,6 +10,8 @@ EINDEX's Blog
 
 ### 最新
 
+* [ARTS Week 2](https://eindex.me/articles/2019/07/14/1563089890038.html)
+* [Thoughtworks 一月](https://eindex.me/articles/2019/07/14/1563089826559.html)
 * [ ARTS Week 1](https://eindex.me/articles/2019/07/08/1562516444327.html)
 * [ARTS - Week 1](https://eindex.me/articles/2019/06/29/1561806039952.html)
 * [通过 Travis CI 实现 DevOps 的 Hexo 博客](https://eindex.me/articles/2019/05/09/1557407895596.html)
