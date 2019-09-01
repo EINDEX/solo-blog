@@ -10,6 +10,7 @@ EINDEX's Blog
 
 ### 最新
 
+* [编辑距离](https://eindex.me/articles/2019/09/01/1567338304957.html)
 * [ARTS Week 2](https://eindex.me/articles/2019/07/14/1563089890038.html)
 * [Thoughtworks 一月](https://eindex.me/articles/2019/07/14/1563089826559.html)
 * [ ARTS Week 1](https://eindex.me/articles/2019/07/08/1562516444327.html)
