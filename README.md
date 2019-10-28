@@ -10,7 +10,6 @@ EINDEX's Blog
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](https://eindex.me/my-github-repos)
 * [操作系统 之 内核](https://eindex.me/articles/2019/09/07/1567854836054.html)
 * [一百行代码实现异步爬虫](https://eindex.me/articles/2019/09/07/1567854563464.html)
 * [搜索引擎 之 倒排索引](https://eindex.me/articles/2019/09/04/1567568650297.html)
